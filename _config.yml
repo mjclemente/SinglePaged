@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Dr. Joseph Clemente, MD"
+keywords:    "Dr. Joseph Clemente, MD, Physician, Warren, NJ"
+description: "Dr. Joseph Clemente, MD is a physician in Warren, NJ and has been practicing for 28 years. He graduated from Jefferson Medical College Of Thomas Jefferson University in 1985."
+source_link: "https://github.com/mjclemente/drjosephclemente.com"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
